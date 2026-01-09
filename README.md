@@ -1,6 +1,6 @@
 # Next.js Todo Application
 
-A modern, fully-featured task management application built with Next.js 15, TypeScript, Tailwind CSS, and Prisma with PostgreSQL.
+A modern, fully-featured task management application built with Next.js 16, TypeScript, Tailwind CSS, and Prisma with PostgreSQL.
 
 ## Features
 
@@ -13,7 +13,7 @@ A modern, fully-featured task management application built with Next.js 15, Type
 
 ## Tech Stack
 
-- **Frontend**: Next.js 15, React, TypeScript
+- **Frontend**: Next.js 16, React, TypeScript
 - **Styling**: Tailwind CSS, PostCSS
 - **Database**: PostgreSQL with Prisma ORM
 - **Development Tools**: ESLint, Prettier
